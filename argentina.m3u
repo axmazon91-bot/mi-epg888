@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Canal1" tvg-name="Canal 1" tvg-logo="" group-title="Argentina",Canal 1
+http://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal 2" tvg-logo="" group-title="Argentina",Canal 2
+http://test-streams.mux.dev/test_001/stream.m3u8
+
+#EXTINF:-1 tvg-id="Canal3" tvg-name="Canal 3" tvg-logo="" group-title="Argentina",Canal 3
+http://test-streams.mux.dev/test_002/stream.m3u8
