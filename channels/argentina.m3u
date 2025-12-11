@@ -1,27 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Canal de prueba
-http://pruebadecanal.com/stream.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina", TV Pública
-https://rtsp.tvpublica.com.ar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1" tvg-name="Canal 1" tvg-logo="" group-title="Argentina",Canal 1
+http://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="Canal9.ar" tvg-name="El Nueve" group-title="Argentina", El Nueve
-https://live-01-09.ar.cdn.tbxnet.com/el9/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NetTV.ar" tvg-name="Net TV" group-title="Argentina", Net TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Noticias", C5N
-https://c5n.akamaized.net/hls/live/2003160/c5n/index.m3u8
-
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" group-title="Argentina", Telefe (Señal regional)
-https://mitelefe.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LN.ar" tvg-name="La Nación+ (LN+)" group-title="Noticias", LN+
-https://lnmas.lanacion.com.ar/live/lnmas/index.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Noticias", Canal 26
-https://live-01-26.ar.cdn.tbxnet.com/c26/smil:26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" group-title="Noticias", A24
-https://live-01-24.ar.cdn.tbxnet.com/a24/smil:a24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2" tvg-name="Canal 2" tvg-logo="" group-title="Argentina",Canal 2
+http://test-streams.mux.dev/test_001/stream.m3u8
