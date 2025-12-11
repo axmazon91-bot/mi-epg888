@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Canal de prueba
+http://pruebadecanal.com/stream.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina", TV Pública
 https://rtsp.tvpublica.com.ar/live/playlist.m3u8
